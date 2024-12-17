@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoggoDollar - The Future is Woof!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f7f9fc;
+            color: #333;
+        }
+        header {
+            background: #ffcc00;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 1.2em;
+        }
+        .content {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta a {
+            background: #ffcc00;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .cta a:hover {
+            background: #ffaa00;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DoggoDollar</h1>
+        <p>The Future is Woof!</p>
+    </header>
+    <div class="content">
+        <h2>Welcome to DoggoDollar!</h2>
+        <p>DoggoDollar (DOGGO) is more than just a cryptocurrency. It’s a movement to bring joy, community, and innovation to the blockchain. With every transaction, you're not only investing in fun but also supporting real-world causes like animal welfare.</p>
+
+        <h3>Why Choose DoggoDollar?</h3>
+        <ul>
+            <li>Exclusive DOGGO NFTs for collectors</li>
+            <li>Automatic rewards for every holder</li>
+            <li>Supporting animal charities worldwide</li>
+            <li>Join the funniest and most loyal community in crypto!</li>
+        </ul>
+
+        <div class="cta">
+            <a href="#">Get Started with DoggoDollar</a>
+        </div>
+
+        <h3>Tokenomics</h3>
+        <p><strong>Total Supply:</strong> 1,000,000,000 DOGGO</p>
+        <p><strong>Distribution:</strong></p>
+        <ul>
+            <li>50% - Community Rewards</li>
+            <li>30% - Liquidity Pool</li>
+            <li>15% - Development & Marketing</li>
+            <li>5% - Charity</li>
+        </ul>
+
+        <h3>Join the Pack!</h3>
+        <p>Be part of the DoggoDollar family by following us on social media:</p>
+        <ul>
+            <li><a href="#">🐾 Twitter</a></li>
+            <li><a href="#">🐶 Instagram</a></li>
+            <li><a href="#">🎉 Discord</a></li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; 2024 DoggoDollar. All Rights Reserved. | Woof Woof!</p>
+    </footer>
+</body>
+</html>
